@@ -3,3 +3,4 @@ Hi This is a file used for git practice. This line is modified.
 Thank you.
 Naren
 Commit 1
+Commit 2
